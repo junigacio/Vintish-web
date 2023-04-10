@@ -239,7 +239,7 @@ $resultado = $sql ->fetchAll(PDO::FETCH_ASSOC);
             </div>
             <div class="footer__section">
               <h2 class="footer__title">Registrate para tener más ofertas</h2>
-              <p class="footer__txt">Subscribierndote a nuestro tablón informativo tendras las mejores ofertas siempre.</p>
+              <p class="footer__txt">Subscribiendote a nuestro tablón informativo tendras las mejores ofertas siempre.</p>
               <input type="email" class="footer__input" placeholder="Enter your email">
             </div>
             <p class="copy">© 2023 Vintish. All Rights Reserved | Design by Junigacio</p>
